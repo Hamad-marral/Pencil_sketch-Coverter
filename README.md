@@ -7,7 +7,7 @@ Welcome to the Pencil Sketch Converter repository! This project aims to provide 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Hamad_marral/Pencil_sketch.git
+  https://github.com/Hamad-marral/Pencil_sketch-Coverter.git
    ```
 
 2. **Install Dependencies**: Ensure you have Python installed on your system. Then, install the required libraries using pip:
